@@ -2,6 +2,8 @@
 ---
 Dockerized Solrcloud development envionment for testing
 
+Documentation: https://solr.apache.org/guide/7_7/getting-started-with-solrcloud.html
+
 ## Setup
 1. Git clone this repo
 2. Git clone [yul-solr repo](https://github.com/yalelibrary/yul-solr.git)
