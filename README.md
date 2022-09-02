@@ -39,7 +39,7 @@ Dockerized Solrcloud development envionment for testing
     ```
 8. Open browser to one of the addresses and port number (ie. http://0.0.0.0:49153)
 
-## Clean up
+**Clean up**
 ```bash
 docker-compose down --volumes
 ```
