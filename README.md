@@ -1,6 +1,6 @@
 # solrcloud
 ---
-* Dockerized Solr development envionment for testing
+Dockerized Solrcloud development envionment for testing
 
 ## Setup
 1. Git clone this repo
